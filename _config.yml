@@ -1,0 +1,23 @@
+name: Andrews-Wilson
+favicon: null
+layout_spectrum: 0.7480732761323452
+typography_spectrum: 0.01370855700224638
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6165664519648999
+  lightness: 0.10277267405763268
+  saturation: 0.49295563041232526
+  rhythmicContrast: 0.48616584530100226
+purpose: []
