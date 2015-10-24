@@ -4,7 +4,7 @@
         <description><![CDATA[Andrews-Wilson]]></description>
         <link>https://thegrid.ai/andrews-wilson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 24 Oct 2015 16:50:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2015 17:06:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/andrews-wilson/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[SAMPLE POST]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/andrews-wilson/sample-post/index.html</link>
             <guid isPermaLink="false">ff95743e-ffda-4a91-82e1-2b07a79618d4</guid>
             <pubDate>Sat, 24 Oct 2015 16:47:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Author Bio]]></title>
-            <description><![CDATA[<article><h1>Author Bio</h1><p>Brian Andrews</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8efdd95-3da2-409d-b4df-ffb806c437b7.jpg"></article>]]></description>
-            <link>https://thegrid.ai/andrews-wilson/author-bio/index.html</link>
-            <guid isPermaLink="false">2b09c274-6f99-4fc1-a1ef-86f68a6f197d</guid>
-            <pubDate>Sat, 24 Oct 2015 16:50:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
